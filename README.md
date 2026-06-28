@@ -105,11 +105,11 @@ To start my career as a Manual Tester | QA Automation Engineer where I can apply
 
 **Name:** Yuvraj Chauhan
 
-**Portfolio:** 
+**Portfolio:** https://yuvrajchauhan1817.github.io/Portfolio/
 
 **GitHub:** https://github.com/yuvrajchauhan1817
 
-**LinkedIn:** *(Add your LinkedIn profile URL here)*
+**LinkedIn:** *(https://www.linkedin.com/in/yuvraj-chauhan-719550282)*
 
 **Email:** *(Add your email address here)*
 
